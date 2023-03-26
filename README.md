@@ -1,6 +1,6 @@
 # Predicting Conflict
 
-Predicting Conflict using a variety of economic and socioeconomic factors.
+Predicting conflict using a variety of economic and socioeconomic factors.
 
 ## Project Definition
 
