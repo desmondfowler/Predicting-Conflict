@@ -10,7 +10,7 @@ The purpose of this project is to build a machine learning model that can predic
 
 ### Definition of Conflict
 
-For the purposes of this project, "conflict" will be defined as an armed confrontation between nation-states, or between a nation-state and non-state actors, that results in significant casualties or political impact. This definition will include wars such as WW1, WW2, Vietnam, Korea, as well as military interventions such as the Gulf War, Afghanistan War, or Iraq War. Additionally, political and social unrest may be considered as potential indicators of conflict, as these can lead to military action or international tensions. Please note that this definition is specific to the context of the USA and may be refined or adjusted as the project progresses.
+For the purposes of this project, "conflict" will be defined as an armed confrontation between nation-states, or between a nation-state and non-state actors, that results in significant casualties or political impact. This definition will include wars such as WW1, WW2, Vietnam, Korea, as well as military interventions such as the Gulf War, Afghanistan War, or Iraq War. Additionally, political and social unrest may be considered as potential indicators of conflict, as these can lead to military action or international tensions. Please note that this definition may be refined or adjusted as the project progresses.
 
 ### Expected Outcome
 
