@@ -18,9 +18,9 @@ The expected outcome of the project is a machine learning model that can accurat
 
 ### Previous Research
 
-I will be reading through these and getting my foundational theories from them.
+I will be reading through these and getting my foundational theories from them. Articles listed in bold sound most applicable based on their titles.
 
-- **Bagozzi, B. E. (2015). Forecasting civil conflict with zero-inflated count models. Civil Wars, 17(1), 1-24.**
+- **Bagozzi, B. E. (2015). Forecasting civil conflict with zero-inflated count models. Civil Wars, 17(1), 1-24.** 
 - **Beger, A., Morgan, R. K., & Ward, M. D. (2021). Reassessing the role of theory and machine learning in forecasting civil conflict. Journal of Conflict Resolution, 65(7-8), 1405-1426.**
 - **Blair, R. A., & Sambanis, N. (2020). Forecasting civil wars: Theory and structure in an age of “Big Data” and machine learning. Journal of Conflict Resolution, 64(10), 1885-1915.**
 - Blattman, C., & Miguel, E. (2010). Civil war. Journal of Economic literature, 48(1), 3-57.
@@ -28,7 +28,7 @@ I will be reading through these and getting my foundational theories from them.
 - **Colaresi, M., & Mahmood, Z. (2017). Do the robot: Lessons from machine learning to improve conflict forecasting. Journal of Peace Research, 54(2), 193-214.**
 - Collier, P. (2000). Economic causes of civil conflict and their implications for policy.
 - Cramer, C. (2003). Does inequality cause conflict?. Journal of International Development: The Journal of the Development Studies Association, 15(4), 397-412.
-- D’Orazio, V., Honaker, J., Prasady, R., & Shoemate, M. (2019, December). Modeling and forecasting armed conflict: AutoML with human-guided machine learning. In 2019 IEEE International Conference on Big Data (Big Data) (pp. 4714-4723). IEEE.
+- **D’Orazio, V., Honaker, J., Prasady, R., & Shoemate, M. (2019, December). Modeling and forecasting armed conflict: AutoML with human-guided machine learning. In 2019 IEEE International Conference on Big Data (Big Data) (pp. 4714-4723). IEEE.**
 - Gilligan, M. J., Pasquale, B. J., & Samii, C. (2014). Civil war and social cohesion: Lab‐in‐the‐field evidence from Nepal. American Journal of Political Science, 58(3), 604-619.
 - Guo, W., Gleditsch, K., & Wilson, A. (2018). Retool AI to forecast and limit wars.
 - **Hegre, H., Buhaug, H., Calvin, K. V., Nordkvelle, J., Waldhoff, S. T., & Gilmore, E. (2016). Forecasting civil conflict along the shared socioeconomic pathways. Environmental Research Letters, 11(5), 054002.**
@@ -38,7 +38,6 @@ I will be reading through these and getting my foundational theories from them.
 - Nielsen, R. A., Findley, M. G., Davis, Z. S., Candland, T., & Nielson, D. L. (2011). Foreign aid shocks as a cause of violent armed conflict. American Journal of Political Science, 55(2), 219-232.
 - Østby, G. (2008). Inequalities, the political environment and civil conflict: Evidence from 55 developing countries (pp. 136-159). Palgrave Macmillan UK.
 - **Perry, C. (2013). Machine learning and conflict prediction: a use case. Stability: International Journal of Security and Development, 2(3), 56.**
-- Sullivan, P. (2012). Who wins?: Predicting strategic success and failure in armed conflict. Oxford University Press.
 - Theisen, O. M., Gleditsch, N. P., & Buhaug, H. (2013). Is climate change a driver of armed conflict?. Climatic change, 117, 613-625.
 - Thorbecke, E., & Charumilind, C. (2002). Economic inequality and its socioeconomic impact. World development, 30(9), 1477-1495.
 - **Weidmann, N. B., & Ward, M. D. (2010). Predicting conflict in space and time. Journal of Conflict Resolution, 54(6), 883-901.**
