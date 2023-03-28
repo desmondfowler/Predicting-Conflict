@@ -1,5 +1,10 @@
 # Custom
 articles/
+articles.zip
+.vscode/
+# using this for converting pdfs to work 
+# docs because some people have bad taste in font
+misc.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
