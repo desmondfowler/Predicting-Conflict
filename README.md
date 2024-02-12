@@ -1,5 +1,7 @@
 # Predicting Conflict
 
+UPDATE 2024/2/12: I do not have the free time I want to dedicate to this project, but I plan to pick it back up when I find the time. 
+
 Predicting conflict using a variety of economic and socioeconomic factors.
 
 ## Project Definition
